@@ -1,4 +1,4 @@
-<h1 align="center">NAMSTEY 👋, I'm Sanjay Gupta</h1>
+<h1 align="center">NAMASTE 👋, I'm Sanjay Gupta</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaygupta972004&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaygupta972004" /> </p>
