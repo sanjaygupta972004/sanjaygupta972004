@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sanjayg39010071" target="blank"><img src="https://img.shields.io/twitter/follow/@sanjayg39010071?logo=twitter&style=for-the-badge" alt="@sanjayg39010071" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and data structures and algorithm in c++👍**
+- 🌱 I’m currently learning **Web Development and data structures and algorithm in javascript👍**
 
 - 📫 How to reach me **sanjaygupta07054@gmail.com**
 
