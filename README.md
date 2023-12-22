@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaygupta972004&show_icons=true&locale=en&layout=compact" alt="sanjaygupta972004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaygupta972004&show_icons=true&locale=en" alt="sanjaygupta972004" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaygupta972004&" alt="sanjaygupta972004" /></p>
 
