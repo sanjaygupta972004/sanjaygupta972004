@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaygupta972004" alt="sanjaygupta972004" /></a> </p>
 
-- 🌱 I’m currently learning **Express. js MongoDB**
+- 🌱 I’m currently building **Blogify-Blog-App**
 
 - 💬 Ask me about **Javascript Typescript React.js Node.js Express.js**
 
