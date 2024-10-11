@@ -74,14 +74,11 @@ Here’s a summary of the technologies I work with:
 
 <p align="center">
   <a href="mailto:sanjaygupta07054@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40" style="margin: 10px;" /></a>
-  <a href="https://linkedin.com/in/sanjaygupta" target="_blank">
+  <a href="https://www.linkedin.com/in/sanjay-gupta-687552261/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin: 10px;" />
   </a>
-  <a href="https://twitter.com/sanjayg39010071" target="_blank">
+  <a href="https://x.com/Dev_Sanjay2004" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://leetcode.com/sanjaygupta972004" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" style="margin: 10px;" />
   </a>
 </p>
 
@@ -91,7 +88,7 @@ Here’s a summary of the technologies I work with:
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaygupta972004&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin: 10px;" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaygupta972004" alt="GitHub Streak" style="margin: 10px;" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaygupta972004" alt="GitHub Streak" style="margin: 15px;" /> 
 </p>
 
 ---
