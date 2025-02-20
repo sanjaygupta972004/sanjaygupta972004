@@ -17,10 +17,10 @@
 
 ### 🛠️ Tech Stack  
 
-**Backend:** Golang (Gin, GORM) | Javascript | Node.js (Express)    
-**Databases:** PostgreSQL | MongoDB | Redis  
-**DevOps & Tools:** Docker | Git | Postman | GitHub Actions | Nginx | Linux  
-**Frontend:** React | Next.js | TailwindCSS
+**Backend:**  Golang (Gin, GORM) |  Javascript |  Node.js (Express)    
+**Databases:**  PostgreSQL |  MongoDB |  Redis  
+**DevOps & Tools:**  Docker |  Git |  Postman |  GitHub Actions |  Nginx |  Linux  
+**Frontend:** React | Next.js |  TailwindCSS
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40" style="margin: 10px;" />
