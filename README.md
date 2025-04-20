@@ -9,7 +9,6 @@
 ---
 
 ### 🌟 About Me  
-- 🚀 Seeking opportunities as a **Golang Backend Developer**  
 - 💡 Passionate about **scalable backend systems & microservices**  
 - 💬 Ask me about **Golang, Gin, GORM, Node.js, Express, PostgreSQL, MongoDB**  
 
@@ -20,9 +19,9 @@
 **Backend:**  Golang (Gin, GORM) |  Javascript |  Node.js (Express)    
 **Databases:**  PostgreSQL |  MongoDB |  Redis  
 **DevOps & Tools:**  Docker |  Git |  Postman |  GitHub Actions |  Nginx |  Linux  
-**Frontend:** React | Next.js |  TailwindCSS
+**Frontend:** React | TailwindCSS
 
-<p align="center">
+<p align="center"
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" style="margin: 10px;" />
