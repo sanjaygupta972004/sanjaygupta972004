@@ -3,7 +3,7 @@
   
   <h1>Hi 👋, I'm Sanjay Gupta</h1>
   
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code+Chai+Repeat" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Code+Chai+Repeat" alt="Typing SVG" />
   
   <h3>🚀 Full Stack Developer From India 🇮🇳</h3>
   
