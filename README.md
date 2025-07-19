@@ -1,11 +1,7 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="Header Wave" />
-   <h1 style="padding-bottom: 10px;">Hi 👋, I'm Sanjay Gupta</h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Always+learning+new+technologies;Building+Scalable+BackendSystems" alt="Typing SVG" />
-  
+   <h1 style="padding-bottom: 10px;">Hi 👋, I'm Sanjay Gupta</h1> 
   <h3>🚀 Full Stack Web Developer From India 🇮🇳</h3>
-  
   <p>
     <img src="https://komarev.com/ghpvc/?username=sanjaygupta972004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/sanjaygupta972004?label=Followers&style=social" alt="GitHub Followers" />
@@ -13,7 +9,6 @@
   
   <img src="https://github-profile-trophy.vercel.app/?username=sanjaygupta972004&theme=algolia&row=1&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
-
 ---
 
 ## 🧑‍💻 About Me
