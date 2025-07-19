@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hi 👋, I'm Sanjay Gupta</h1>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="Header Wave" />
+   <h1 style="padding-bottom: 10px;">Hi 👋, I'm Sanjay Gupta</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Always+learning+new+technologies;Building+Scalable+BackendSystems" alt="Typing SVG" />
   
