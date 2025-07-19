@@ -60,12 +60,13 @@
 ---
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaygupta972004&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaygupta972004&theme=algolia" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaygupta972004&show_icons=true&theme=algolia" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaygupta972004&theme=algolia" alt="GitHub Streak" height="150" />
+</div>
 
 ---
+
 
 ## 🤝 Let's Connect & Collaborate!
 
